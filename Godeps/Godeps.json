@@ -1,0 +1,62 @@
+{
+	"ImportPath": "harrysbaraini/monoedit",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v73",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gin-gonic/gin",
+			"Comment": "v1.0rc1-268-gf931d1e",
+			"Rev": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/binding",
+			"Comment": "v1.0rc1-268-gf931d1e",
+			"Rev": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/render",
+			"Comment": "v1.0rc1-268-gf931d1e",
+			"Rev": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "9e6977f30c91c78396e719e164e57f9287fff42c"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.0-18-g2752245",
+			"Rev": "27522453dea253cf90dcb5345286a5fcf0fbed7c"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm/dialects/sqlite",
+			"Comment": "v1.0-18-g2752245",
+			"Rev": "27522453dea253cf90dcb5345286a5fcf0fbed7c"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Rev": "3272df6c21d04180007eb3349844c89a3856bc25"
+		},
+		{
+			"ImportPath": "github.com/manucorporat/sse",
+			"Rev": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-sqlite3",
+			"Comment": "v1.1.0-69-g38ee283",
+			"Rev": "38ee283dabf11c9cbdb968eebd79b1fa7acbabe6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "c4c3ea71919de159c9e246d7be66deb7f0a39a58"
+		},
+		{
+			"ImportPath": "gopkg.in/go-playground/validator.v8",
+			"Comment": "v8.17.1",
+			"Rev": "014792cf3e266caff1e916876be12282b33059e0"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "a83829b6f1293c91addabc89d0571c246397bbf4"
+		}
+	]
+}

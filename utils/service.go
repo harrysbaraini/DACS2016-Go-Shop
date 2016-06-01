@@ -16,6 +16,8 @@ type Service struct {
 	Routes []Route
 }
 
+// Register ...
+// Register the service
 func (s Service) Register(engine *gin.RouterGroup) {
 	for i := 0; i < len(s.Routes); i++ {
 		engine.Handle(s.Routes[i].Method, s.Prefix+s.Routes[i].Url, s.Routes[i].Handler)
